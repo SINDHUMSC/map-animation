@@ -1,11 +1,11 @@
- eye boll moving:
+ map animation:
 
-in this project to move eye in enter ball in black eye.the curser in move side in the eye boll is move thecueser side.
+in this project to create a map animation of trichy to sulur.in bus stops create a small map animation .
    
 
  How to Run Project:
 
-Step 1: once the run the project the eye ball moving im the curser side.
+Step 1: once the run the project tou will see a bus stops in mini map animation
 
 Future improvements of projects:
 
